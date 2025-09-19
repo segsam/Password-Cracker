@@ -1,0 +1,1 @@
+A password checker is a tool that evaluates a password’s strength and provides feedback to the user. It tests for length, character variety, common patterns, and other signals that predict how resistant a password is to guessing or brute-force attacks.
